@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: Bob
-- Person 2: one sentence about you!
+- Person 2: Shreyasi :)
 - Person 3: one sentence about you!
 
 ## References
