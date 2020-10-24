@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Person 1: Bob
 - Person 2: Shreyasi :)
-- Person 3: one sentence about you!
+- Person 3: Elaine Yuan
 
 ## References
 
