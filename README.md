@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: Bob
+- Person 1: Bob Zhu
 - Person 2: Shreyasi :)
 - Person 3: Elaine Yuan
 
