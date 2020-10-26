@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-
+The Adult income dataset which is prpvidfe by UC Irvine Machine learning Respository is one our group is going to choose for our group project. The reason for our group to choose this tpoic is because adult income is very important for people, it is what family care about. Also, It could shows many problems in the World Economy like the gap between rich and poor has always been a hot debatable topic nowadays. We are going to use the dataset to explore the adult income difference from different ages, different job areas, gender, relationship, native country, education backgroud, working hours etc. I can imagine use this datasets to make a data dashboard because using it makes us to collect all the datasets together into a graph will make people more easy to analyse the data sets and see the problems between different graphs. We want to explore which factors listed has become the major effect to the adult income. 
 
 ## Describe your dataset in about 150-200 words
 
