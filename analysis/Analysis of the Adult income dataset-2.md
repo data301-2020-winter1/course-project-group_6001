@@ -5,6 +5,7 @@ From the first milestone, our group decide to choose the **adult income dataset*
 *graphs*
 ![/images/graph.png]
 ![/images/graph1.png]
+![pragh1](/images/graph.png)
 ----
 *Analysis*
 I have use the pie graph to show the relationship between the education level and the income level. From the graph 1, we can cleary see that when the income is below 50K, the largest distribution group is that the high school graduate student which was about 35.7%. And the second largesr amount of the group is college students which is about 23.9% after that was the bachelor students which is 12.7%. From that we can see the basic group of the education level seemed to be the High school that in other words if you are high school graduates students you can get below 50K per year as a job. From the graph 2, we can see if you want to get the income which is above 50K per year; you should get the bachelor degree which is 28.3% nearly 1/3 in the population. However the high school graduate seemed to be the second largest group among the distribution graph which is 21.4%. From that, we can conculde the higher the income you should have the higher degree which is at least high school graduates. 
