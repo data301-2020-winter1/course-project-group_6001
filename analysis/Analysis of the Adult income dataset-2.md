@@ -6,7 +6,7 @@ From the first milestone, our group decide to choose the **adult income dataset*
 *graphs*
 
 ![graph1](/images/graph.png)
-![graph2](/images/graph1 .png)
+![graph2](/images/graph1.png)
 
 ----
 *Analysis*
